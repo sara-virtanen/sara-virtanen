@@ -1,4 +1,9 @@
-## Hi there 👋
+Oh hi!
+
+📚 Currently studying at LAB University of Applied Sciences
+👩‍💻 Future Bachelor of Engineering, Industrial Information Technology
+🕸️ Interested in AI + machine learning, security and UX
+🌸 I enjoy problem-solving via simple, minimal and elegant solutions
 
 <!--
 **sara-virtanen/sara-virtanen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
